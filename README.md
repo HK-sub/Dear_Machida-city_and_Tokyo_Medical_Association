@@ -2,10 +2,10 @@
 ## 東京都医師会および町田医師会の皆様へ
 ### ページ案内（カッコ内に、主に読んでいただきたい方々を記載してあります）
 #### おすすめバリカンリスト（東京都医師会および町田医師会の皆様へ）
-```Recommend_BARIKAN.md```がおすすめバリカンリストです。こちらをご覧ください。**これは、送付文章をきちんと読んでいただいたかの確認も兼ねております。** 紹介しているバリカンについては下記の[免責事項（バリカンについて）](https://github.com/Haruk-Kono/Dear_MachidaCity_and_Tokyo_Medical_Association/blob/main/README.md#%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85%E3%83%90%E3%83%AA%E3%82%AB%E3%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)もお読みください。
+[Recommend_BARIKAN.md](https://github.com/Haruk-Kono/Dear_MachidaCity_and_Tokyo_Medical_Association/blob/main/Recommend_BARIKAN.md)がおすすめバリカンリストです。こちらをご覧ください。**これは、送付文章をきちんと読んでいただいたかの確認も兼ねております。** 紹介しているバリカンについては下記の[免責事項（バリカンについて）](https://github.com/Haruk-Kono/Dear_MachidaCity_and_Tokyo_Medical_Association/blob/main/README.md#%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85%E3%83%90%E3%83%AA%E3%82%AB%E3%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)もお読みください。
 
 #### 組織内に属する者としての電話対応について、参考ページリスト（町田市医師会役員 広報部門のお三方、町田市医師会事務局 広報担当の方々へ ※特に、先日折り返し電話をいただきやり取りをさせていただいた事務局のA様）
-```Telephone_Support.md```に参考資料のリンクなどをリストアップしたので、上記の方々はご覧ください。**こちらについても、送付文章をきちんと読んでいただいたか確認を兼ねております。**
+[Telephone_Support.md](https://github.com/Haruk-Kono/Dear_MachidaCity_and_Tokyo_Medical_Association/blob/main/Telephone_Support.md)に参考資料のリンクなどをリストアップしたので、上記の方々はご覧ください。**こちらについても、送付文章をきちんと読んでいただいたか確認を兼ねております。**
 電話対応の重要性について私の認識はそんなにおかしい感覚なのだろうかと心配になったので、様々な方に見解を求めたり、電話対応についてノウハウが書かれたホームページを色々と閲覧したりしました。そこで閲覧した資料などが含まれています（本ページ作成にあたり新たに調べたものや、別な調べもの中偶然見つけたものなども含んでいます。検索時は、バイアスのかかりにくい検索ワードで調べるようには心掛けました（「広報　電話対応」など）。
 
 ### 概要
