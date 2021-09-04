@@ -1,0 +1,2 @@
+# Dear_MachidaCity_and_Tokyo_Medical_Association
+愛をこめてバリカンを
