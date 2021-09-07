@@ -24,6 +24,8 @@
 - [ER-SC60](https://www.google.com/search?q=ER-SC60-S&oq=ER-SC60-S&aqs=chrome..69i57j69i61l3&sourceid=chrome&ie=UTF-8)
   - 2017年発売モデル。オープン価格。通販だと13,000円～17,000円程。
 
-
+## おまけ
+Google検索をすると、検索結果の上部に、`すべて`、`画像`、`動画`などとともに`ショッピング`というタブが出てくることがあるかと思います
+[バリカン プロ用](https://www.google.com/search?q=%E3%83%90%E3%83%AA%E3%82%AB%E3%83%B3%E3%80%80%E3%83%97%E3%83%AD%E7%94%A8&biw=1280&bih=587&tbm=shop&sxsrf=AOaemvIr4h-5ilNcLEje5DsNxnhjQ1iDHg:1630999088767&tbs=p_ord:pd&ei=MBI3YbCfLoyb-Aaak57oBA&ved=0ahUKEwiw98GKqezyAhWMDd4KHZqJB00Quw0IngYoAg)
 ## 最後に
  調べていたらこちらも欲しくなってきました（基本的にプロのお世話になっているのですが、刈り上げのメンテナンスなどに使えるかなと思いまして）。送料は着払いでいいので買ってくれませんか。
