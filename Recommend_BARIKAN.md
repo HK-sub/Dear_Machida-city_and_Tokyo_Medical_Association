@@ -13,8 +13,11 @@
 ## プロ用
 ### Panasonic
 - [panasonic ER-GP62](https://www.google.com/search?q=ER-GP62&ei=p24zYYWUJO2Tr7wPsaSlsAY&oq=ER-GP62&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGABQAFgAYOcIaABwAHgAgAEAiAEAkgEAmAEAwAEB&sclient=gws-wiz&ved=0ahUKEwjFg9PZsOXyAhXtyYsBHTFSCWYQ4dUDCA4&uact=5)
-  - 今年の9/1、つまりつい最近発売されたモデル。オープン価格だが、調べた限り相場は19,000円程度か。
-  - 小型で女性でも持ちやすいのがウリらしい。
+  - 今年の9月1日、つまりつい最近発売されたモデル。オープン価格だが、調べた限り相場は19,000円程度か。
+  - 小型で女性でも持ちやすいのがウリらしい（本体重量は約155g）。逆に手の大きい方だと扱いにくい可能性もあるが、小回りは利くのかもしれない（詳しいことは不明）。
+  - 付属品は、アタッチメント(3/4mm、6/9mm、12/15mm)、アタッチメント収納ケース、充電スタンド、ACアダプター
+  - 一応メーカー公式HPにて[製品紹介のページ](https://panasonic.jp/mens/pro/products/ER-GP62.html)があるものの、「あなたはプロの理美容業界の方ですか？」と出てくる。製薬会社のHPで「あなたは医療関係者ですか？」と出てくるようなものであろう。
+
 - [ER-GP82-K](https://www.google.com/search?q=ER-GP82-K&oq=ER-GP82-K&aqs=chrome..69i57j69i61j69i60j69i61&sourceid=chrome&ie=UTF-8)
   - 2020年3月1日発売。発売当初の相場は24,000円～26,000円くらいと思われるが、現在は19,000円～20,000円ほどが多い印象。
   - ダイヤルがついていて、アタッチメント無しでも刈り高さ0.8mmから2mmまで、0.3mm刻みでできる。この機能は驚いたが、どうやらプロ用のバリカンには時折似たような機能が搭載されているようだ。メンズで流行りのフェードカット向けだろうか？
@@ -31,7 +34,7 @@
   - メーカー設定の参考小売価格は税別で38,000円。また、各種大手通販サイトに直営店を出している。詳しくは[メーカーの製品紹介ページにて](https://www.feelscissors.jp/clipper-premier)。
   - 付属品は、アタッチメント（1.5mm,3.0mm,4.5mm,6.0mm,10mm,13mm,16mm,19mm）、充電アダプター、クリーニングブラシ、オイル。
  
- 正直FEEL JAPANに関しては、プロ向けのメーカーにもかかわらず一般の我々も閲覧、購入が簡単にできるくらい公式HPが充実しているので、正直そこを見たほうが早い。[clipperシリーズ（バリカン）](https://www.feelscissors.jp/clipper)のリンクを参照いただけると。ディスプレイのついたモデルなどもある。
+ 正直FEEL JAPANに関しては、プロ向けのメーカーにもかかわらず一般の我々も閲覧、購入が簡単にできるくらい公式HPが充実しているので、正直そこを見たほうが早い。[clipperシリーズ（バリカン）](https://www.feelscissors.jp/clipper)のリンクを参照いただけると。[ディスプレイのついたモデル](https://www.feelscissors.jp/clipper-p28)もあり、さらにはフェードカットのやり方まで書いてある。
  
 ### Andis
 - [12480MLC](https://www.google.com/search?q=12480MLC&oq=12&aqs=chrome.0.69i59l3j69i57j69i60l3j69i61.2395j0j9&sourceid=chrome&ie=UTF-8)
